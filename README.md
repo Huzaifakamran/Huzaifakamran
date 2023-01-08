@@ -10,7 +10,7 @@ A Researcher, Programmer and a Chatbot developer
 <a href="https://coursera.org/share/952e6907fee0a77d72fef28841974e20"><b>What is Data Science?</b></a>
 
 
-- 💻 I’m currently a Chatbot Developer and Data Analyst.
+- 💻 I’m currently working as a Data Engineer and a Chatbot Developer.
 
 - 🌱 I'm currently learning Data Science
 
