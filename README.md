@@ -1,7 +1,7 @@
 ### Hello world!&nbsp;<img src="https://github.com/Huzaifakamran/Huzaifakamran/blob/main/Assests/Earth.gif" width="24px"> 
 ✨ Welcome to my **Special** repository ✨
 
-I am **Huzaifa Kamran** working as a *Product Manager* at <a href="http://www.movexpk.com/"> <b>MOVEX EXPRESS & LOGISTICS</b></a>. Completed my Bachelors in Software Engineering from <a href="https://ssuet.edu.pk/"> <b>Sir Syed University of Engineering and Technology.</b></a>
+I am **Huzaifa Kamran** working as a *Data Engineer* at <a href="https://tallymarksconsulting.com/"> <b>TallyMarks Consulting</b></a>. Completed my Bachelors in Software Engineering from <a href="https://ssuet.edu.pk/"> <b>Sir Syed University of Engineering and Technology.</b></a>
 
 ## About Me
 
